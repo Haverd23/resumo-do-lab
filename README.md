@@ -2,3 +2,5 @@ O que eu entendi do Azure é que ele funciona como um ambiente na nuvem onde dá
 
 
 Beneficios ao utilizar serviços em nuvem: https://learn.microsoft.com/pt-br/training/modules/describe-benefits-use-cloud-services/
+
+Tipos de serviços de nuvem: https://learn.microsoft.com/pt-br/training/modules/describe-cloud-service-types/
